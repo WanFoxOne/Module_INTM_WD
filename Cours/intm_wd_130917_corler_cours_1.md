@@ -1,6 +1,6 @@
 # INTM_WD | 13/09/17 | 1
 
-##WinDev - Présentation
+## WinDev - Présentation
 
 3 grandes catégories de produit
 Moteur de BDD : "HFSQL"
